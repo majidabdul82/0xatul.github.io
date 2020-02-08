@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://0xatul.github.io/</loc>
     <lastmod>2020-02-08T23:04:58+05:45</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/bugbounty/</loc>
+    <loc>https://0xatul.github.io/tags/bugbounty/</loc>
     <lastmod>2020-02-08T23:04:58+05:45</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/2020/02/external-xml-entity-via-file-upload-svg/</loc>
+    <loc>https://0xatul.github.io/posts/2020/02/external-xml-entity-via-file-upload-svg/</loc>
     <lastmod>2020-02-08T23:04:58+05:45</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://0xatul.github.io/posts/</loc>
     <lastmod>2020-02-08T23:04:58+05:45</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://0xatul.github.io/tags/</loc>
     <lastmod>2020-02-08T23:04:58+05:45</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/xxe/</loc>
+    <loc>https://0xatul.github.io/tags/xxe/</loc>
     <lastmod>2020-02-08T23:04:58+05:45</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://0xatul.github.io/categories/</loc>
   </url>
   
 </urlset>
